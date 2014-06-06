@@ -1,5 +1,5 @@
 {
-  "name": "plos-search",
+  "name": "plos-scrape",
   "version": "0.0.0",
   "description": "Given some search criteria, scrapes the PLoS ONE API.",
   "main": "index.js",

@@ -34,7 +34,7 @@ describe('TESTS SCRAPER UTILITY', function() {
 
   it('#should test Scraper.prepare', function() {
     var res = this.Scraper.prepare();
-    var expected = 'http://api.plos.org/search?q=abstract:"cats"&api_key={key}'.replace('{key}', api_key);
+    var expected = 'http://api.plos.org/search?q=abstract:"cats"&apikey={key}&wt=json&fq=doc_type:full&q=everyhing'.replace('{key}', api_key);
     res.should.equal(expected);
   });
 
@@ -61,7 +61,7 @@ describe('TESTS API-REQUESTS', function() {
   this.timeout(12000);
 
   before(function() {
-    this.Scraper = new Scraper(api_key, { 'subject': 'abstract', 'term': 'cats' });
+    this.Scraper = new Scraper(api_key, { 'type': 'abstract', 'term': 'cats' });
     this.articles = {
        '10.1371%2Fjournal.pone.0084119': { 'id': '10.1371%2Fjournal.pone.0084119', 'journal': 'PLoS ONE' },
        '10.1371%2Fjournal.pone.0079379': { 'id': '10.1371%2Fjournal.pone.0079379', 'journal': 'PLoS ONE' }
@@ -84,7 +84,7 @@ describe('TESTS API-REQUESTS', function() {
 
   it('#should test Scraper.getAltmetrics', function(done) {
     this.Scraper.getAltmetrics(this.articles, function(err, specifics) {
-      var articles = JSON.parse(specifics)['abstract-cats']; // from Scraper initialization
+      var articles = specifics['abstract-cats']; // from Scraper initialization
       var pdfs = _.map(articles, function(obj) { return obj.pdf; });
       var properties = ['id', 'journal', 'citations', 'pdf', 'url'];
 
