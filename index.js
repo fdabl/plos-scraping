@@ -1,20 +1,18 @@
 var fs      = require('fs');
+var _       = require('lodash');
 var Scraper = require('./lib/index');
 var apiKey  = require('./api.json').key;
 
-var query = { 'type': 'abstract', 'term': 'dogs' };
-var metadata = ['author_display', 'title_display', 'abstract', 'publication_date'];
-var altmetrics = ['views', 'citations'];
-
-var PLoS = new Scraper(apiKey, query, metadata, altmetrics);
-
-var write = function(err, data) {
-  fs.writeFile('result.json', JSON.stringify(data, null, 4), function(err) {
-    if (err) {
-      console.log('Something horrible happened. Evacuate the room.');
-      throw err;
-    }
-  });
+var config = {
+  apiKey     : apiKey,
+  directory  : './results',
+  altmetrics : ['views', 'citations'],
+  query      : { 'type': 'abstract', 'term' : 'cats' },
+  meta       : ['author_display', 'title_display', 'abstract', 'publication_date']
 };
 
-PLoS.scrape(write);
+var PLoS = new Scraper(config);
+
+PLoS.scrape(PLoS.writeJSON);
+
+//PLoS.mergeJSON('./final/merged.json');
