@@ -27,7 +27,7 @@ Enter it in the api.json file and you're ready to go!
 
 Scraper in lib/index.js is the main object. Use it like this:
 
-```
+```javascript
 var config = {
   apiKey     : 'yourapikey',
   altmetrics : ['views', 'citations'],
@@ -114,3 +114,32 @@ directory (default: ./results). Name is the query (e.g. abstract-cat).
 ### Scraper.mergeJSON
 
 Merges all the files in the results directory into one file.
+
+## Getting Things Done
+
+### Scraper.parallel
+
+Given an array of queries, runs them in parallel and merges them upon finishing.
+
+```javascript
+// assumes everything given above
+
+var queries = [
+  { 'type': 'abstract', 'term' : 'cats' },
+  { 'type': 'abstract', 'term' : 'dogs' },
+  { 'type': 'abstract', 'term' : 'elephants' }
+  { 'type': 'abstract', 'term' : 'squirrels' }
+  { 'type': 'abstract', 'term' : 'humans' }
+  { 'type': 'abstract', 'term' : 'apes' }
+];
+
+var mergedir = './final/merged.json'
+PLoS.parallel(queries, mergedir);
+```
+
+## Things to do
+
+When anybody figures out how to scrape the paper fulltext (seems like it's not possible, though),
+this could be easily incorporated into the Scraper. Otherwise, since we have the URL to the HTML paper
+(and the URL to the PDF paper), it would be possible to do this by hand. But it wouldn't be a particularly
+nice experience.

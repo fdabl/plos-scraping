@@ -1,6 +1,6 @@
 {
-  "name": "plos-scrape",
-  "version": "0.0.0",
+  "name": "plos-scraping",
+  "version": "0.1.0",
   "description": "Given some search criteria, scrapes the PLoS ONE API.",
   "main": "index.js",
   "scripts": {
