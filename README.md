@@ -144,5 +144,5 @@ PLoS.parallel(queries, mergedir);
 
 ## Fulltext scraping
 
-PLoS One does provide an API to scrape the full text of the paper. I do this with cheerio (jquery on the server),
+PLoS One does not provide an API for scraping the full text of a paper. I do this with cheerio (jquery on the server),
 with a rather rudimentary selector ('#section1, #section2, #section3, #section4 > p').
