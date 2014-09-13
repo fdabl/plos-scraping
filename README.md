@@ -1,6 +1,6 @@
 # PLoS Scraping
 
-Given some search criteria (see below), scrapes the PLoS ONE API.
+Given some search criteria (see below), scrapes the PLoS One API.
 
 ```
 npm install
@@ -26,8 +26,8 @@ and the following article level metrics:
 * shares
 * bookmarks
 
-You need to have your own api key though. Sign Up [here](http://alm.plos.org/docs/Home) and get your key.
-Create an api.json file in the root folder and enter your key.
+You need to have your own api key though. Sign Up [here](http://alm.plos.org/docs) and get your key.
+Put the api key into the api.json file.
 
 ## How To
 
@@ -42,7 +42,6 @@ var config = {
 };
 
 var PLoS = new Scraper(config);
-
 
 PLoS.scrape(function(err, data) {
   if (err) {
@@ -143,9 +142,7 @@ var mergedir = './final/merged.json'
 PLoS.parallel(queries, mergedir);
 ```
 
-## Things to do
+## Fulltext scraping
 
-When anybody figures out how to scrape the paper fulltext (seems like it's not possible, though),
-this could be easily incorporated into the Scraper. Otherwise, since we have the URL to the HTML paper
-(and the URL to the PDF paper), it would be possible to do this by hand. But it wouldn't be a particularly
-nice experience.
+PLoS One does provide an API to scrape the full text of the paper. I do this with cheerio (jquery on the server),
+with a rather rudimentary selector ('#section1, #section2, #section3, #section4 > p').

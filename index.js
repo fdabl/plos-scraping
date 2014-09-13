@@ -4,7 +4,7 @@ var async   = require('async');
 var Scraper = require('./lib/index');
 var apiKey  = require('./api.json').key;
 
-var config  = { apiKey: apiKey }; // look at the defaults in lib/index.js
+var config  = { apiKey: apiKey, fulltext: true }; // look at the defaults in lib/index.js
 
 var PLoS = new Scraper(config);
 var queries = [
@@ -14,7 +14,6 @@ var queries = [
   { 'type': 'subject', 'term': 'geography' },
   { 'type': 'subject', 'term': 'economics'},
   { 'type': 'subject', 'term': 'chemistry'},
-  { 'type': 'subject', 'term': 'medicine'},
 ];
 
 PLoS.parallel(queries, './final/merged.json');

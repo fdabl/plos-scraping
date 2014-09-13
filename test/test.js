@@ -6,7 +6,6 @@ var request = require('request');
 
 var lib     = require('../lib');
 var Scraper = require('../lib/index');
-var parse   = require('../lib/parser');
 var apiKey  = require('../api.json').key;
 
 
@@ -23,17 +22,6 @@ describe('TESTS SCRAPER UTILITY', function() {
     '10.1371/journal.pone.0065925',
     '10.1371/journal.pone.0078547',
     ];
-  });
-
-
-  it('#should test parser', function() {
-    fs.readFile('parse.xml', 'utf8', function(err, data) {
-      var dois = Object.keys(parse(data));
-      dois.forEach(function(doi) {
-        doi.should.be.type('string');
-        doi.indexOf('journal').should.not.equal(-1);
-      });
-    });
   });
 
 
