@@ -15,10 +15,32 @@
             "publication_date": "2013-09-25T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 755,
             "citations": 0,
+            "views": 931,
+            "shares": 5,
+            "bookmarks": 0,
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0072970",
             "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0072970&representation=PDF"
+        },
+        "10.1371/journal.pbio.0030339": {
+            "author_display": [
+                "John Novembre",
+                "Alison P Galvani",
+                "Montgomery Slatkin"
+            ],
+            "title_display": "The Geographic Spread of the CCR5 Δ32 HIV-Resistance Allele",
+            "abstract": [
+                "\n        The Δ32 mutation at the CCR5 locus is a well-studied example of natural selection acting in humans. The mutation is found principally in Europe and western Asia, with higher frequencies generally in the north. Homozygous carriers of the Δ32 mutation are resistant to HIV-1 infection because the mutation prevents functional expression of the CCR5 chemokine receptor normally used by HIV-1 to enter CD4+ T cells. HIV has emerged only recently, but population genetic data strongly suggest Δ32 has been under intense selection for much of its evolutionary history. To understand how selection and dispersal have interacted during the history of the Δ32 allele, we implemented a spatially explicit model of the spread of Δ32. The model includes the effects of sampling, which we show can give rise to local peaks in observed allele frequencies. In addition, we show that with modest gradients in selection intensity, the origin of the Δ32 allele may be relatively far from the current areas of highest allele frequency. The geographic distribution of the Δ32 allele is consistent with previous reports of a strong selective advantage (>10%) for Δ32 carriers and of dispersal over relatively long distances (>100 km/generation). When selection is assumed to be uniform across Europe and western Asia, we find support for a northern European origin and long-range dispersal consistent with the Viking-mediated dispersal of Δ32 proposed by G. Lucotte and G. Mercier. However, when we allow for gradients in selection intensity, we estimate the origin to be outside of northern Europe and selection intensities to be strongest in the northwest. Our results describe the evolutionary history of the Δ32 allele and establish a general methodology for studying the geographic distribution of selected alleles.\n      \n        A spatially explicit model of the Δ32 mutation, which confers resistance to HIV-1 infection, reveals its spread across Europe and provides a general method for tracking the geographic spread of selected alleles.\n      "
+            ],
+            "publication_date": "2005-10-18T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS Biology",
+            "citations": 37,
+            "views": 41491,
+            "shares": 175,
+            "bookmarks": 152,
+            "url": "http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030339",
+            "pdf": "http://fetchObject.action?uri=http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030339&representation=PDF"
         },
         "10.1371/journal.pone.0088666": {
             "author_display": [
@@ -35,69 +57,12 @@
             "publication_date": "2014-02-18T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 1115,
             "citations": 0,
+            "views": 1451,
+            "shares": 43,
+            "bookmarks": 6,
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0088666",
             "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0088666&representation=PDF"
-        },
-        "10.1371/journal.pbio.1001634": {
-            "author_display": [
-                "Joel Hartter",
-                "Sadie J. Ryan",
-                "Catrina A. MacKenzie",
-                "John N. Parker",
-                "Carly A. Strasser"
-            ],
-            "title_display": "Spatially Explicit Data: Stewardship and Ethical Challenges in Science",
-            "abstract": [
-                "\nSharing spatially specific data, which includes the characteristics and behaviors of individuals, households, or communities in geographical space, raises distinct technical and ethical challenges.\n\nScholarly communication is at an unprecedented turning point created in part by the increasing saliency of data stewardship and data sharing. Formal data management plans represent a new emphasis in research, enabling access to data at higher volumes and more quickly, and the potential for replication and augmentation of existing research. Data sharing has recently transformed the practice, scope, content, and applicability of research in several disciplines, in particular in relation to spatially specific data. This lends exciting potentiality, but the most effective ways in which to implement such changes, particularly for disciplines involving human subjects and other sensitive information, demand consideration. Data management plans, stewardship, and sharing, impart distinctive technical, sociological, and ethical challenges that remain to be adequately identified and remedied. Here, we consider these and propose potential solutions for their amelioration.\n"
-            ],
-            "publication_date": "2013-09-03T00:00:00Z",
-            "article_type": "Perspective",
-            "journal": "PLoS Biology",
-            "views": 5860,
-            "citations": 1,
-            "url": "http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001634",
-            "pdf": "http://www.plosbiology.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pbio.1001634&representation=PDF"
-        },
-        "10.1371/journal.pone.0098847": {
-            "author_display": [
-                "Miao Liu",
-                "Yanyan Xu",
-                "Yuanman Hu",
-                "Chunlin Li",
-                "Fengyun Sun",
-                "Tan Chen"
-            ],
-            "title_display": "A Century of the Evolution of the Urban Area in Shenyang, China",
-            "abstract": [
-                "\nAnalyzing spatiotemporal characteristics of the historical urbanization process is essential in understanding the dynamics of urbanization and scientifically planned urban development. Based on historical urban area maps and remote sensing images, this study examined the urban expansion of Shenyang from 1910 to 2010 using area statistics, typology identification, and landscape metrics approaches. The population and gross domestic product were analyzed as driving factors. The results showed that the urban area of Shenyang increased 43.39-fold during the study period and that the growth rate has accelerated since the 1980s. Three urban growth types were distinguished: infilling, edge-expansion, and spontaneous growth. Edge-expansion was the primary growth type. Infilling growth became the main growth type in the periods 1946–70, 1988–97, and 2004–10. Spontaneous growth was concentrated in the period of 1997 to 2000. The results of landscape metrics indicate that the urban landscape of Shenyang originally was highly aggregated, but has become increasingly fragmented. The urban fringe area was the traditional hot zone of urbanization. Shenyang was mainly located north of the Hun River before 1980; however, the south side of the river has been the hot zone of urbanization since the 1980s. The increase of urban area strongly correlated with the growth of GDP and population. Over a long time scale, the urbanization process has been affected by major historical events.\n"
-            ],
-            "publication_date": "2014-06-03T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 117,
-            "citations": 0,
-            "url": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0098847",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0098847&representation=PDF"
-        },
-        "10.1371/journal.pone.0016518": {
-            "author_display": [
-                "Gabriell Máté",
-                "Zoltán Néda",
-                "József Benedek"
-            ],
-            "title_display": "Spring-Block Model Reveals Region-Like Structures",
-            "abstract": [
-                "\n        A mechanical spring-block model is used for realizing an objective space partition of settlements from a geographic territory in region-like structures. The method is based on the relaxation-dynamics of the spring-block system and reveals in a hierarchical manner region-like entities at different spatial scales. It takes into account in an elegant manner both the spatiality of the elements and the connectivity relations among them. Spatiality is taken into account by using the geographic coordinates of the settlements, and by detecting the neighbors with the help of a Delaunay triangulation. Connectivity between neighboring settlements are quantified using a Pearson-like correlation for the relative variation of a relevant socio-economic parameter (population size, GDP, tax payed per inhabitant, etc.). The method is implemented in an interactive JAVA application and it is applied with success for an artificially generated society and for the case of USA, Hungary and Transylvania.\n      "
-            ],
-            "publication_date": "2011-02-08T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 1977,
-            "citations": 2,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0016518",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0016518&representation=PDF"
         },
         "10.1371/journal.pone.0066293": {
             "author_display": [
@@ -112,8 +77,10 @@
             "publication_date": "2013-06-19T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 7461,
             "citations": 1,
+            "views": 8931,
+            "shares": 152,
+            "bookmarks": 17,
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0066293",
             "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0066293&representation=PDF"
         },
@@ -130,28 +97,12 @@
             ],
             "publication_date": "2012-10-01T00:00:00Z",
             "article_type": "Research Article",
-            "views": 1667,
-            "citations": 1,
+            "citations": 2,
+            "views": 1801,
+            "shares": 4,
+            "bookmarks": 17,
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0045985",
             "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0045985&representation=PDF"
-        },
-        "10.1371/journal.pbio.0030270": {
-            "author_display": [
-                "Mark Stoneking",
-                "Brigitte Pakendorf",
-                "Hiroki Oota"
-            ],
-            "title_display": "Authors' Reply",
-            "abstract": [
-                ""
-            ],
-            "publication_date": "2005-08-16T00:00:00Z",
-            "article_type": "Correspondence and Other Communications",
-            "journal": "PLoS Biology",
-            "views": 1853,
-            "citations": 0,
-            "url": "http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030270",
-            "pdf": "http://fetchObject.action?uri=http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030270&representation=PDF"
         },
         "10.1371/journal.pbio.0040208": {
             "author_display": [
@@ -175,28 +126,96 @@
             "publication_date": "2006-06-20T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS Biology",
-            "views": 14491,
             "citations": 38,
+            "views": 14864,
+            "shares": 1,
+            "bookmarks": 148,
             "url": "http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0040208",
             "pdf": "http://fetchObject.action?uri=http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0040208&representation=PDF"
         },
-        "10.1371/journal.pone.0077488": {
+        "10.1371/journal.pbio.0030270": {
             "author_display": [
-                "Guanghua Zhang",
-                "Yuqing Zhang",
-                "Zhenguo Chen"
+                "Mark Stoneking",
+                "Brigitte Pakendorf",
+                "Hiroki Oota"
             ],
-            "title_display": "Using Trust to Secure Geographic and Energy Aware Routing against Multiple Attacks",
+            "title_display": "Authors' Reply",
             "abstract": [
-                "\nTo address the vulnerability of geographic routing to multiple security threats such as false routing information, selective forwarding and the Sybil attack in wireless sensor networks, this paper proposes a trust-based defending model against above-mentioned multiple attacks. Considering the characteristics of resource-constrained sensor nodes, trust values of neighboring nodes on the routing path can be calculated through the Dirichlet distribution function, which is based on data packets' acknowledgements in a certain period instead of energy-consuming monitoring. Trust is combined with the cost of geographic and energy aware routing for selecting the next hop of routing. At the same time, the initial trust is dynamically determined, service requests are restricted for malicious nodes in accordance with trust values, and the impact of node mobility is weakened by the trust evolution. The simulation results and analysis show that the proposed model under multiple attacks has advantages in packet delivery ratio and network lifetime over the existing models.\n"
+                ""
             ],
-            "publication_date": "2013-10-21T00:00:00Z",
+            "publication_date": "2005-08-16T00:00:00Z",
+            "article_type": "Correspondence and Other Communications",
+            "journal": "PLoS Biology",
+            "citations": 0,
+            "views": 1871,
+            "shares": 0,
+            "bookmarks": 0,
+            "url": "http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030270",
+            "pdf": "http://fetchObject.action?uri=http://biology.plosjournals.org/perlserv/?request=get-document&doi=10.1371%2Fjournal.pbio.0030270&representation=PDF"
+        },
+        "10.1371/journal.pone.0027027": {
+            "author_display": [
+                "Wolf L. Eiserhardt",
+                "Stine Bjorholm",
+                "Jens-Christian Svenning",
+                "Thiago F. Rangel",
+                "Henrik Balslev"
+            ],
+            "title_display": "Testing the Water–Energy Theory on American Palms (Arecaceae) Using Geographically Weighted Regression",
+            "abstract": [
+                "\n        Water and energy have emerged as the best contemporary environmental correlates of broad-scale species richness patterns. A corollary hypothesis of water–energy dynamics theory is that the influence of water decreases and the influence of energy increases with absolute latitude. We report the first use of geographically weighted regression for testing this hypothesis on a continuous species richness gradient that is entirely located within the tropics and subtropics. The dataset was divided into northern and southern hemispheric portions to test whether predictor shifts are more pronounced in the less oceanic northern hemisphere. American palms (Arecaceae, n = 547 spp.), whose species richness and distributions are known to respond strongly to water and energy, were used as a model group. The ability of water and energy to explain palm species richness was quantified locally at different spatial scales and regressed on latitude. Clear latitudinal trends in agreement with water–energy dynamics theory were found, but the results did not differ qualitatively between hemispheres. Strong inherent spatial autocorrelation in local modeling results and collinearity of water and energy variables were identified as important methodological challenges. We overcame these problems by using simultaneous autoregressive models and variation partitioning. Our results show that the ability of water and energy to explain species richness changes not only across large climatic gradients spanning tropical to temperate or arctic zones but also within megathermal climates, at least for strictly tropical taxa such as palms. This finding suggests that the predictor shifts are related to gradual latitudinal changes in ambient energy (related to solar flux input) rather than to abrupt transitions at specific latitudes, such as the occurrence of frost.\n      "
+            ],
+            "publication_date": "2011-11-03T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 555,
+            "citations": 7,
+            "views": 2525,
+            "shares": 0,
+            "bookmarks": 45,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0027027",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0027027&representation=PDF"
+        },
+        "10.1371/journal.pmed.1001626": {
+            "author_display": [
+                "Rachel L. Pullan",
+                "Matthew C. Freeman",
+                "Peter W. Gething",
+                "Simon J. Brooker"
+            ],
+            "title_display": "Geographical Inequalities in Use of Improved Drinking Water Supply and Sanitation across Sub-Saharan Africa: Mapping and Spatial Analysis of Cross-sectional Survey Data",
+            "abstract": [
+                ": Using cross-sectional survey data, Rachel Pullan and colleagues map geographical inequalities in use of improved drinking water supply and sanitation across sub-Saharan Africa. Background: Understanding geographic inequalities in coverage of drinking-water supply and sanitation (WSS) will help track progress towards universal coverage of water and sanitation by identifying marginalized populations, thus helping to control a large number of infectious diseases. This paper uses household survey data to develop comprehensive maps of WSS coverage at high spatial resolution for sub-Saharan Africa (SSA). Analysis is extended to investigate geographic heterogeneity and relative geographic inequality within countries. Methods and Findings: Cluster-level data on household reported use of improved drinking-water supply, sanitation, and open defecation were abstracted from 138 national surveys undertaken from 1991–2012 in 41 countries. Spatially explicit logistic regression models were developed and fitted within a Bayesian framework, and used to predict coverage at the second administrative level (admin2, e.g., district) across SSA for 2012. Results reveal substantial geographical inequalities in predicted use of water and sanitation that exceed urban-rural disparities. The average range in coverage seen between admin2 within countries was 55% for improved drinking water, 54% for use of improved sanitation, and 59% for dependence upon open defecation. There was also some evidence that countries with higher levels of inequality relative to coverage in use of an improved drinking-water source also experienced higher levels of inequality in use of improved sanitation (rural populations r = 0.47, p = 0.002; urban populations r = 0.39, p = 0.01). Results are limited by the quantity of WSS data available, which varies considerably by country, and by the reliability and utility of available indicators. Conclusions: This study identifies important geographic inequalities in use of WSS previously hidden within national statistics, confirming the necessity for targeted policies and metrics that reach the most marginalized populations. The presented maps and analysis approach can provide a mechanism for monitoring future reductions in inequality within countries, reflecting priorities of the post-2015 development agenda. Background: Access to a safe drinking-water supply (a water source that is protected from contamination) and to adequate sanitation facilities (toilets, improved latrines, and other facilities that prevent people coming into contact with human urine and feces) is essential for good health. Unimproved drinking-water sources and sanitation are responsible for 85% of deaths from diarrhea and 1% of the global burden of disease. They also increase the transmission of parasitic worms and other neglected tropical diseases. In 2000, world leaders set a target of reducing the proportion of the global population without access to safe drinking water and basic sanitation to half of the 1990 level by 2015 as part of Millennium Development Goal (MDG) 7 (“Ensure environmental sustainability”; the MDGs are designed to improve the social, economic, and health conditions in the world's poorest countries). Between 1990 and 2010, more than 2 billion people gained access to improved drinking-water sources and 1.8 billion gained access to improved sanitation. In 2011, 89% of the world's population had access to an improved drinking-water supply, 1% above the MDG target, and 64% had access to improved sanitation (the MDG target is 75%). Why Was This Study Done?: Despite these encouraging figures, the WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation (JMP) estimates that, globally, 768 million people relied on unimproved drinking-water sources, 2.5 billion people did not use an improved sanitation facility, and more than 1 billion people (15% of the global population) were defecating in the open in 2011. The JMP estimates for 2011 also reveal national and sub-national inequalities in drinking-water supply and sanitation coverage but a better understanding of geographic inequalities is needed to track progress towards universal coverage of access to improved water and sanitation and to identify the populations that need the most help to achieve this goal. Here, the researchers use cross-sectional household survey data and modern statistical approaches to produce a comprehensive map of the coverage of improved drinking-water supply and improved sanitation at high spatial resolution for sub-Saharan Africa and to investigate geographic inequalities in coverage. Cross-sectional household surveys collect health and other information from households at a single time-point, including data on use of safe water and improved sanitation. What Did the Researchers Do and Find?: The researchers extracted data on reported household use of an improved drinking-water supply (for example, a piped water supply), improved sanitation facilities (for example, a flushing toilet), and open defecation from 138 national household surveys undertaken between 1991 and 2012 in 41 countries in sub-Saharan Africa. They developed statistical models to fit these data and used the models to estimate coverage at the district (second administrative) level across sub-Saharan Africa for 2012. For ten countries, the estimated coverage of access to improved drinking water at the district level within individual countries ranged from less than 25% to more than 75%. Within-country ranges of a similar magnitude were estimated for coverage of access to improved sanitation  (21 countries) and for open defecation (16 countries). Notably, rural households in the districts with the lowest coverage of access to improved water supply and sanitation within a country were 1.5–8 times less likely to access improved drinking water, 2–18 times less likely to access improved sanitation, and 2–80 times more likely to defecate in the open than rural households in districts with the best coverage. Finally, countries with high levels of inequality in improved drinking-water source coverage also experienced high levels of inequality in improved sanitation coverage. What Do These Findings Mean?: These findings identify important geographic inequalities in the coverage of access to improved water sources and sanitation that were previously hidden within national statistics. The accuracy of these findings depends on the accuracy of the data on water supplies and sanitation provided by household surveys, on the researchers' definitions for improved water supplies and sanitation, and on their statistical methods. Nevertheless, these findings confirm that, to achieve universal coverage of access to improved drinking-water sources and sanitation, strategies that target the areas with the lowest coverage are essential. Moreover, the maps and the analytical approach presented here provide the means for monitoring future reductions in inequalities in the coverage of access to improved water sources and sanitation and thus reflect a major priority of the post-2015 development agenda. Additional Information: Please access these websites via the online version of this summary at http://dx.doi.org/10.1371/journal.pmed.1001626. "
+            ],
+            "publication_date": "2014-04-08T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS Medicine",
+            "citations": 2,
+            "views": 8192,
+            "shares": 58,
+            "bookmarks": 16,
+            "url": "http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.1001626",
+            "pdf": "http://www.plosmedicine.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pmed.1001626&representation=PDF"
+        },
+        "10.1371/journal.pone.0098361": {
+            "author_display": [
+                "Frank A. La Sorte",
+                "Stuart H. M. Butchart",
+                "Walter Jetz",
+                "Katrin Böhning-Gaese"
+            ],
+            "title_display": "Range-Wide Latitudinal and Elevational Temperature Gradients for the World's Terrestrial Birds: Implications under Global Climate Change",
+            "abstract": [
+                "\nSpecies' geographical distributions are tracking latitudinal and elevational surface temperature gradients under global climate change. To evaluate the opportunities to track these gradients across space, we provide a first baseline assessment of the steepness of these gradients for the world's terrestrial birds. Within the breeding ranges of 9,014 bird species, we characterized the spatial gradients in temperature along latitude and elevation for all and a subset of bird species, respectively. We summarized these temperature gradients globally for threatened and non-threatened species and determined how their steepness varied based on species' geography (range size, shape, and orientation) and projected changes in temperature under climate change. Elevational temperature gradients were steepest for species in Africa, western North and South America, and central Asia and shallowest in Australasia, insular IndoMalaya, and the Neotropical lowlands. Latitudinal temperature gradients were steepest for extratropical species, especially in the Northern Hemisphere. Threatened species had shallower elevational gradients whereas latitudinal gradients differed little between threatened and non-threatened species. The strength of elevational gradients was positively correlated with projected changes in temperature. For latitudinal gradients, this relationship only held for extratropical species. The strength of latitudinal gradients was better predicted by species' geography, but primarily for extratropical species. Our findings suggest threatened species are associated with shallower elevational temperature gradients, whereas steep latitudinal gradients are most prevalent outside the tropics where fewer bird species occur year-round. Future modeling and mitigation efforts would benefit from the development of finer grain distributional data to ascertain how these gradients are structured within species' ranges, how and why these gradients vary among species, and the capacity of species to utilize these gradients under climate change.\n"
+            ],
+            "publication_date": "2014-05-22T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
             "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0077488",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0077488&representation=PDF"
+            "views": 1271,
+            "shares": 31,
+            "bookmarks": 12,
+            "url": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0098361",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0098361&representation=PDF"
         }
     }
 }

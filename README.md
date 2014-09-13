@@ -20,8 +20,14 @@ The PLoS One api provides the following search criteria:
 * subject
 * abstract
 
+and the following article level metrics:
+* views
+* citations
+* shares
+* bookmarks
+
 You need to have your own api key though. Sign Up [here](http://alm.plos.org/docs/Home) and get your key.
-Enter it in the api.json file and you're ready to go!
+Create an api.json file in the root folder and enter your key.
 
 ## How To
 

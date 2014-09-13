@@ -1,101 +1,27 @@
 {
     "subject-biotechnology": {
-        "10.1371/journal.pone.0086174": {
+        "10.1371/journal.pone.0070686": {
             "author_display": [
-                "Latifah Amin",
-                "Md. Abul Kalam Azad",
-                "Mohd Hanafy Gausmian",
-                "Faizah Zulkifli"
+                "Yonggang Yang",
+                "Meiying Xu",
+                "Zhili He",
+                "Jun Guo",
+                "Guoping Sun",
+                "Jizhong Zhou"
             ],
-            "title_display": "Determinants of Public Attitudes to Genetically Modified Salmon",
+            "title_display": "Microbial Electricity Generation Enhances Decabromodiphenyl Ether (BDE-209) Degradation",
             "abstract": [
-                "\nThe objective of this paper is to assess the attitude of Malaysian stakeholders to genetically modified (GM) salmon and to identify the factors that influence their acceptance of GM salmon using a structural equation model. A survey was carried out on 434 representatives from various stakeholder groups in the Klang Valley region of Malaysia. Public attitude towards GM salmon was measured using self-developed questionnaires with seven-point Likert scales. The findings of this study have confirmed that public attitudes towards GM salmon is a complex issue and should be seen as a multi-faceted process. The most important direct predictors for the encouragement of GM salmon are the specific application-linked perceptions about religious acceptability of GM salmon followed by perceived risks and benefits, familiarity, and general promise of modern biotechnology. Encouragement of GM salmon also involves the interplay among other factors such as general concerns of biotechnology, threatening the natural order of things, the need for labeling, the need for patenting, confidence in regulation, and societal values. The research findings can serve as a database that will be useful for understanding the social construct of public attitude towards GM foods in a developing country.\n"
+                "\nDue to environmental persistence and biotoxicity of polybrominated diphenyl ethers (PBDEs), it is urgent to develop potential technologies to remediate PBDEs. Introducing electrodes for microbial electricity generation to stimulate the anaerobic degradation of organic pollutants is highly promising for bioremediation. However, it is still not clear whether the degradation of PBDEs could be promoted by this strategy. In this study, we hypothesized that the degradation of PBDEs (e.g., BDE-209) would be enhanced under microbial electricity generation condition. The functional compositions and structures of microbial communities in closed-circuit microbial fuel cell (c-MFC) and open-circuit microbial fuel cell (o-MFC) systems for BDE-209 degradation were detected by a comprehensive functional gene array, GeoChip 4.0, and linked with PBDE degradations. The results indicated that distinctly different microbial community structures were formed between c-MFCs and o-MFCs, and that lower concentrations of BDE-209 and the resulting lower brominated PBDE products were detected in c-MFCs after 70-day performance. The diversity and abundance of a variety of functional genes in c-MFCs were significantly higher than those in o-MFCs. Most genes involved in chlorinated solvent reductive dechlorination, hydroxylation, methoxylation and aromatic hydrocarbon degradation were highly enriched in c-MFCs and significantly positively correlated with the removal of PBDEs. Various other microbial functional genes for carbon, nitrogen, phosphorus and sulfur cycling, as well as energy transformation process, were also significantly increased in c-MFCs. Together, these results suggest that PBDE degradation could be enhanced by introducing the electrodes for microbial electricity generation and by specifically stimulating microbial functional genes.\n"
             ],
-            "publication_date": "2014-01-29T00:00:00Z",
+            "publication_date": "2013-08-05T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 1827,
             "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086174",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0086174&representation=PDF"
-        },
-        "10.1371/journal.pone.0076291": {
-            "author_display": [
-                "Jacob I. Laughner",
-                "Scott B. Marrus",
-                "Erik R. Zellmer",
-                "Carla J. Weinheimer",
-                "Matthew R. MacEwan",
-                "Sophia X. Cui",
-                "Jeanne M. Nerbonne",
-                "Igor R. Efimov"
-            ],
-            "title_display": "A Fully Implantable Pacemaker for the Mouse: From Battery to Wireless Power",
-            "abstract": [
-                "\nAnimal models have become a popular platform for the investigation of the molecular and systemic mechanisms of pathological cardiovascular physiology. Chronic pacing studies with implantable pacemakers in large animals have led to useful models of heart failure and atrial fibrillation. Unfortunately, molecular and genetic studies in these large animal models are often prohibitively expensive or not available. Conversely, the mouse is an excellent species for studying molecular mechanisms of cardiovascular disease through genetic engineering. However, the large size of available pacemakers does not lend itself to chronic pacing in mice. Here, we present the design for a novel, fully implantable wireless-powered pacemaker for mice capable of long-term (>30 days) pacing. This design is compared to a traditional battery-powered pacemaker to demonstrate critical advantages achieved through wireless inductive power transfer and control. Battery-powered and wireless-powered pacemakers were fabricated from standard electronic components in our laboratory. Mice (n = 24) were implanted with endocardial, battery-powered devices (n = 14) and epicardial, wireless-powered devices (n = 10). Wireless-powered devices were associated with reduced implant mortality and more reliable device function compared to battery-powered devices. Eight of 14 (57.1%) mice implanted with battery-powered pacemakers died following device implantation compared to 1 of 10 (10%) mice implanted with wireless-powered pacemakers. Moreover, device function was achieved for 30 days with the wireless-powered device compared to 6 days with the battery-powered device. The wireless-powered pacemaker system presented herein will allow electrophysiology studies in numerous genetically engineered mouse models as well as rapid pacing-induced heart failure and atrial arrhythmia in mice.\n"
-            ],
-            "publication_date": "2013-10-23T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 1597,
-            "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076291",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0076291&representation=PDF"
-        },
-        "10.1371/journal.pone.0077170": {
-            "author_display": [
-                "Sivagnanam Silambarasan",
-                "Jayanthi Abraham"
-            ],
-            "title_display": "Mycoremediation of Endosulfan and Its Metabolites in Aqueous Medium and Soil by <i>Botryosphaeria laricina</i> JAS6 and <i>Aspergillus tamarii</i> JAS9",
-            "abstract": [
-                "\n\t\t\t\tMicrobial degradation offers an efficient and ecofriendly approach to remove toxicants from the contaminated environments. Botryosphaeria laricina JAS6 and Aspergillus tamarii JAS9 were capable of degrading endosulfan and their metabolites which were isolated through enrichment technique. Both the strains were able to withstand an exposure of 1300 mg/L and showed luxuriant growth at 1000 mg/L of endosulfan. The change in pH in the culture broth was from 6.8 to 3.4 and 3.8 during growth kinetic studies of JAS6 and JAS9 strains, respectively upon biological degradation of endosulfan. The degradation of endosulfan by JAS6 and JAS9 strains were examined by HPLC. The biodegradation rate constant (k) and the initial concentration were reduced by 50% (DT50) which was determined by first and pseudo first order kinetic models. In the present investigation it has been revealed that Botryosphaeria laricina JAS6 and Aspergillus tamarii JAS9 possessing endosulfan degrading capability are being reported for the first time. These findings confirm the degradation of endosulfan by JAS6 and JAS9 strains which were accompanied by significant reduction in the toxicity and could be used as remedial measure in contaminated environments. \n\t\t\t"
-            ],
-            "publication_date": "2013-10-10T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 1031,
-            "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0077170",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0077170&representation=PDF"
-        },
-        "10.1371/journal.pone.0084297": {
-            "author_display": [
-                "Kelly M. McFarlin",
-                "Roger C. Prince",
-                "Robert Perkins",
-                "Mary Beth Leigh"
-            ],
-            "title_display": "Biodegradation of Dispersed Oil in Arctic Seawater at -1°C",
-            "abstract": [
-                "\nAs offshore oil and gas exploration expands in the Arctic, it is important to expand the scientific understanding of arctic ecology and environmental impact to mitigate operational risks. Understanding the fate of oil in arctic seawater is a key factor for consideration. Here we report the chemical loss due to the biodegradation of Alaska North Slope (ANS) crude oil that would occur in the water column following the successful dispersion of a surface oil slick. Primary biodegradation and mineralization were measured in mesocosms containing Arctic seawater collected from the Chukchi Sea, Alaska, incubated at −1°C. Indigenous microorganisms degraded both fresh and weathered oil, in both the presence and absence of Corexit 9500, with oil losses ranging from 46−61% and up to 11% mineralization over 60 days. When tested alone, 14% of 50 ppm Corexit 9500 was mineralized within 60 days. Our study reveals that microorganisms indigenous to Arctic seawater are capable of performing extensive biodegradation of chemically and physically dispersed oil at an environmentally relevant temperature (−1°C) without any additional nutrients.\n"
-            ],
-            "publication_date": "2014-01-08T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 1102,
-            "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0084297",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0084297&representation=PDF"
-        },
-        "10.1371/journal.pone.0060801": {
-            "author_display": [
-                "Yi Wang",
-                "Xiangsheng Ye",
-                "Guangda Ding",
-                "Fangsen Xu"
-            ],
-            "title_display": "Overexpression of <i>phyA</i> and <i>appA</i> Genes Improves Soil Organic Phosphorus Utilisation and Seed Phytase Activity in <i>Brassica napus</i>",
-            "abstract": [
-                "\n        Phytate is the major storage form of organic phosphorus in soils and plant seeds, and phosphorus (P) in this form is unavailable to plants or monogastric animals. In the present study, the phytase genes phyA and appA were introduced into Brassica napus cv Westar with a signal peptide sequence and CaMV 35S promoter, respectively. Three independent transgenic lines, P3 and P11 from phyA and a18 from appA, were selected. The three transgenic lines exhibited significantly higher exuded phytase activity when compared to wild-type (WT) controls. A quartz sand culture experiment demonstrated that transgenic Brassica napus had significantly improved P uptake and plant biomass. A soil culture experiment revealed that seed yields of transgenic lines P11 and a18 increased by 20.9% and 59.9%, respectively, when compared to WT. When phytate was used as the sole P source, P accumulation in seeds increased by 20.6% and 46.9% with respect to WT in P11 and a18, respectively. The P3 line accumulated markedly more P in seeds than WT, while no significant difference was observed in seed yields when phytate was used as the sole P source. Phytase activities in transgenic canola seeds ranged from 1,138 to 1,605 U kg–1 seeds, while no phytase activity was detected in WT seeds. Moreover, phytic acid content in P11 and a18 seeds was significantly lower than in WT. These results introduce an opportunity for improvement of soil and seed phytate-P bioavailability through genetic manipulation of oilseed rape, thereby increasing plant production and P nutrition for monogastric animals.\n      "
-            ],
-            "publication_date": "2013-04-03T00:00:00Z",
-            "article_type": "Research Article",
-            "journal": "PLoS ONE",
-            "views": 1297,
-            "citations": 3,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0060801",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0060801&representation=PDF"
+            "views": 1454,
+            "shares": 0,
+            "bookmarks": 8,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070686",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0070686&representation=PDF"
         },
         "10.1371/journal.pone.0047205": {
             "author_display": [
@@ -112,83 +38,211 @@
             ],
             "publication_date": "2012-10-08T00:00:00Z",
             "article_type": "Research Article",
-            "views": 4101,
-            "citations": 7,
+            "citations": 9,
+            "views": 4521,
+            "shares": 0,
+            "bookmarks": 5,
             "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0047205",
             "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0047205&representation=PDF"
         },
-        "10.1371/journal.pone.0074060": {
+        "10.1371/journal.pone.0081993": {
             "author_display": [
-                "Nomar Espinosa Waminal",
-                "Ki Hyun Ryu",
-                "Sun-Hee Choi",
-                "Hyun Hee Kim"
+                "Yuhong Zhang",
+                "Xiaolu Xu",
+                "Xiaojin Zhou",
+                "Rumei Chen",
+                "Peilong Yang",
+                "Qingchang Meng",
+                "Kun Meng",
+                "Huiying Luo",
+                "Jianhua Yuan",
+                "Bin Yao",
+                "Wei Zhang"
             ],
-            "title_display": "Randomly Detected Genetically Modified (GM) Maize (<i>Zea mays</i> L.) near a Transport Route Revealed a Fragile 45S rDNA Phenotype",
+            "title_display": "Overexpression of an Acidic Endo-β-1,3-1,4-glucanase in Transgenic Maize Seed for Direct Utilization in Animal Feed",
             "abstract": [
-                "\n\t\t\t\tMonitoring of genetically modified (GM) crops has been emphasized to prevent their potential effects on the environment and human health. Monitoring of the inadvertent dispersal of transgenic maize in several fields and transport routes in Korea was carried out by qualitative multiplex PCR, and molecular analyses were conducted to identify the events of the collected GM maize. Cytogenetic investigations through fluorescence in situ hybridization (FISH) of the GM maize were performed to check for possible changes in the 45S rDNA cluster because this cluster was reported to be sensitive to replication and transcription stress. Three GM maize kernels were collected from a transport route near Incheon port, Korea, and each was found to contain NK603, stacked MON863 x NK603, and stacked NK603 x MON810 inserts, respectively. Cytogenetic analysis of the GM maize containing the stacked NK603 x MON810 insert revealed two normal compact 5S rDNA signals, but the 45S rDNA showed a fragile phenotype, demonstrating a “beads-on-a-string” fragmentation pattern, which seems to be a consequence of genetic modification. Implications of the 45S rDNA cluster fragility in GM maize are also discussed.\n\t\t\t"
+                "Background: Incorporation of exogenous glucanase into animal feed is common practice to remove glucan, one of the anti-nutritional factors, for efficient nutrition absorption. The acidic endo-β-1,3-1,4-glucanase (Bgl7A) from Bispora sp. MEY-1 has excellent properties and represents a potential enzyme supplement to animal feed. Methodology/Principal Findings: Here we successfully developed a transgenic maize producing a high level of Bgl7AM (codon modified Bgl7A) by constructing a recombinant vector driven by the embryo-specific promoter ZM-leg1A. Southern and Western blot analysis indicated the stable integration and specific expression of the transgene in maize seeds over four generations. The β-glucanase activity of the transgenic maize seeds reached up to 779,800 U/kg, about 236-fold higher than that of non-transgenic maize. The β-glucanase derived from the transgenic maize seeds had an optimal pH of 4.0 and was stable at pH 1.0–8.0, which is in agreement with the normal environment of digestive tract. Conclusion/Significance: Our study offers a transgenic maize line that could be directly used in animal feed without any glucanase production, purification and supplementation, consequently simplifying the feed enzyme processing procedure. "
             ],
-            "publication_date": "2013-09-09T00:00:00Z",
+            "publication_date": "2013-12-31T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 1509,
             "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074060",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0074060&representation=PDF"
+            "views": 949,
+            "shares": 1,
+            "bookmarks": 4,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081993",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081993&representation=PDF"
         },
-        "10.1371/journal.pone.0060911": {
+        "10.1371/journal.pone.0080591": {
             "author_display": [
-                "Jay Chok",
-                "Jifeng Qian"
+                "Vincenzo Lionetti",
+                "Simone Lorenzo Romano",
+                "Giacomo Bianchi",
+                "Fabio Bernini",
+                "Anar Dushpanova",
+                "Giuseppe Mascia",
+                "Martina Nesti",
+                "Franco Di Gregorio",
+                "Alberto Barbetta",
+                "Luigi Padeletti"
             ],
-            "title_display": "Do Executives' Backgrounds Matter to IPO Investors? Evidence from the Life Science Industry",
+            "title_display": "Impact of Acute Changes of Left Ventricular Contractility on the Transvalvular Impedance: Validation Study by Pressure-Volume Loop Analysis in Healthy Pigs",
             "abstract": [
-                "\nIn this study, we focus on the impact of senior executives' industry backgrounds on the amount of capital raised in the stock market. The primary contribution of the study entails applying the upper echelon theory to the initial public offering (IPO) phenomenon. Specifically, we hypothesize that the industry backgrounds of corporate executives affect the amount of capital that the firm raised in the primary stock market. We argue that the firm's future investment strategies are unobserved by the investors ex-ante and investors expect firms' investment strategies to be based on the executives' industry backgrounds. As a result, the executives' industry backgrounds influence the investors' expectations about what investment strategies the firm is likely to deploy. Furthermore, the above logic also suggests that executives of different industry backgrounds should prefer different investment strategies corresponding with demand for different amount of capital. As a result, we expect the industry backgrounds to covary with the capital raised from both the supply and demand perspectives. To test the hypotheses, we ran a reduced econometric model wherein the executives' background predicts the amount of capital raised. Regression analyses suggest that the capital raised is negatively associated with the number of senior executives with prior career experience in the healthcare and genomic sectors but positively associated with the number of senior executives with prior career experience in regulatory affairs. The results provide tentative support for the notion that investors infer corporate strategies from senior executives' industry backgrounds.\n"
+                "Background: The real-time and continuous assessment of left ventricular (LV) myocardial contractility through an implanted device is a clinically relevant goal. Transvalvular impedance (TVI) is an impedentiometric signal detected in the right cardiac chambers that changes during stroke volume fluctuations in patients. However, the relationship between TVI signals and LV contractility has not been proven. We investigated whether TVI signals predict changes of LV inotropic state during clinically relevant loading and inotropic conditions in swine normal heart. Methods: The assessment of RVTVI signals was performed in anesthetized adult healthy anesthetized pigs (n = 6) instrumented for measurement of aortic and LV pressure, dP/dtmax and LV volumes. Myocardial contractility was assessed with the slope (Ees) of the LV end systolic pressure-volume relationship. Effective arterial elastance (Ea) and stroke work (SW) were determined from the LV pressure-volume loops. Pigs were studied at rest (baseline), after transient mechanical preload reduction and afterload increase, after 10-min of low dose dobutamine infusion (LDDS, 10 ug/kg/min, i.v), and esmolol administration (ESMO, bolus of 500 µg and continuous infusion of 100 µg·kg−1·min−1). Results: We detected a significant relationship between ESTVI and dP/dtmax during LDDS and ESMO administration. In addition, the fluctuations of ESTVI were significantly related to changes of the Ees during afterload increase, LDDS and ESMO infusion. Conclusions: ESTVI signal detected in right cardiac chamber is significantly affected by acute changes in cardiac mechanical activity and is able to predict acute changes of LV inotropic state in normal heart. "
             ],
-            "publication_date": "2013-05-15T00:00:00Z",
+            "publication_date": "2013-11-19T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 1181,
             "citations": 0,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0060911",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0060911&representation=PDF"
+            "views": 606,
+            "shares": 0,
+            "bookmarks": 1,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0080591",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0080591&representation=PDF"
         },
-        "10.1371/journal.pone.0039407": {
+        "10.1371/journal.pone.0067101": {
             "author_display": [
-                "Lorenzo Pasotti",
-                "Nicolò Politi",
-                "Susanna Zucca",
-                "Maria Gabriella Cusella De Angelis",
-                "Paolo Magni"
+                "Ecaterina Vasluian",
+                "Ingrid G. M. de Jong",
+                "Wim G. M. Janssen",
+                "Margriet J. Poelma",
+                "Iris van Wijk",
+                "Heleen A. Reinders-Messelink",
+                "Corry K. van der Sluis"
             ],
-            "title_display": "Bottom-Up Engineering of Biological Systems through Standard Bricks: A Modularity Study on Basic Parts and Devices",
+            "title_display": "Opinions of Youngsters with Congenital Below-Elbow Deficiency, and Those of Their Parents and Professionals Concerning Prosthetic Use and Rehabilitation Treatment",
             "abstract": [
-                "Background: Modularity is a crucial issue in the engineering world, as it enables engineers to achieve predictable outcomes when different components are interconnected. Synthetic Biology aims to apply key concepts of engineering to design and construct new biological systems that exhibit a predictable behaviour. Even if physical and measurement standards have been recently proposed to facilitate the assembly and characterization of biological components, real modularity is still a major research issue. The success of the bottom-up approach strictly depends on the clear definition of the limits in which biological functions can be predictable. Results: The modularity of transcription-based biological components has been investigated in several conditions. First, the activity of a set of promoters was quantified in Escherichia coli via different measurement systems (i.e., different plasmids, reporter genes, ribosome binding sites) relative to an in vivo reference promoter. Second, promoter activity variation was measured when two independent gene expression cassettes were assembled in the same system. Third, the interchangeability of input modules (a set of constitutive promoters and two regulated promoters) connected to a fixed output device (a logic inverter) expressing GFP was evaluated. The three input modules provide tunable transcriptional signals that drive the output device. If modularity persists, identical transcriptional signals trigger identical GFP outputs. To verify this, all the input devices were individually characterized and then the input-output characteristic of the logic inverter was derived in the different configurations. Conclusions: Promoters activities (referred to a standard promoter) can vary when they are measured via different reporter devices (up to 22%), when they are used within a two-expression-cassette system (up to 35%) and when they drive another device in a functionally interconnected circuit (up to 44%). This paper provides a significant contribution to the study of modularity limitations in building biological systems by providing useful data on context-dependent variability of biological components. "
+                "Background: Youngsters with unilateral congenital below-elbow deficiency (UCBED) seem to function well with or without a prosthesis. Reasons for rejecting prostheses have been reported earlier, but unfortunately not those of the children themselves. Furthermore, reasons for acceptance are underexplored in the literature. Objectives: To investigate opinions of children and early and late adolescents with UCBED, and those of their parents and healthcare professionals, concerning (1) reasons to wear or not to wear prostheses and (2) about rehabilitation care. Methods: During one week of online focus group interviews, 42 children of 8–12 y/o, early and late adolescents of 13–16 and 17–20 y/o, 17 parents, and 19 healthcare professionals provided their opinions on various topics. This study addresses prosthetic use or non-use of prosthetics and rehabilitation care. Data were analyzed using the framework approach. Results: Cosmesis was considered to be the prime factor for choosing and wearing a prosthesis, since this was deemed especially useful in avoiding stares from others. Although participants functioned well without prostheses, they agreed that it was an adjuvant in daily-life activities and sports. Weight and limited functionality constituted rejection reasons for a prosthesis. Children and adolescents who had accepted that they were different no longer needed the prosthesis to avoid being stared at. The majority of participants highly valued the peer-to-peer contact provided by the healthcare professionals. Conclusions: For children and adolescents with UCBED, prostheses appeared particularly important for social integration, but much less so for functionality. Peer-to-peer contact seemed to provide support during the process of achieving social integration and should be embedded in the healthcare process. "
             ],
-            "publication_date": "2012-07-20T00:00:00Z",
+            "publication_date": "2013-06-24T00:00:00Z",
             "article_type": "Research Article",
             "journal": "PLoS ONE",
-            "views": 2635,
+            "citations": 0,
+            "views": 993,
+            "shares": 1,
+            "bookmarks": 4,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0067101",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0067101&representation=PDF"
+        },
+        "10.1371/journal.pone.0023195": {
+            "author_display": [
+                "Sabine Neuss",
+                "Bernd Denecke",
+                "Lin Gan",
+                "Qiong Lin",
+                "Manfred Bovi",
+                "Christian Apel",
+                "Michael Wöltje",
+                "Anandhan Dhanasingh",
+                "Jochen Salber",
+                "Ruth Knüchel",
+                "Martin Zenke"
+            ],
+            "title_display": "Transcriptome Analysis of MSC and MSC-Derived Osteoblasts on Resomer® LT706 and PCL: Impact of Biomaterial Substrate on Osteogenic Differentiation",
+            "abstract": [
+                "Background: Mesenchymal stem cells (MSC) represent a particularly attractive cell type for bone tissue engineering because of their ex vivo expansion potential and multipotent differentiation capacity. MSC are readily differentiated towards mature osteoblasts with well-established protocols. However, tissue engineering frequently involves three-dimensional scaffolds which (i) allow for cell adhesion in a spatial environment and (ii) meet application-specific criteria, such as stiffness, degradability and biocompatibility. Methodology/Principal Findings: In the present study, we analysed two synthetic, long-term degradable polymers for their impact on MSC-based bone tissue engineering: PLLA-co-TMC (Resomer® LT706) and poly(ε-caprolactone) (PCL). Both polymers enhance the osteogenic differentiation compared to tissue culture polystyrene (TCPS) as determined by Alizarin red stainings, scanning electron microscopy, PCR and whole genome expression analysis. Resomer® LT706 and PCL differ in their influence on gene expression, with Resomer® LT706 being more potent in supporting osteogenic differentiation of MSC. The major trigger on the osteogenic fate, however, is from osteogenic induction medium. Conclusion: This study demonstrates an enhanced osteogenic differentiation of MSC on Resomer® LT706 and PCL compared to TCPS. MSC cultured on Resomer® LT706 showed higher numbers of genes involved in skeletal development and bone formation. This identifies Resomer® LT706 as particularly attractive scaffold material for bone tissue engineering. "
+            ],
+            "publication_date": "2011-09-14T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 4,
+            "views": 3356,
+            "shares": 0,
+            "bookmarks": 15,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023195",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0023195&representation=PDF"
+        },
+        "10.1371/journal.pone.0022122": {
+            "author_display": [
+                "Jiangang Wang",
+                "Yan Li",
+                "Jiahai Shi",
+                "Jie Han",
+                "Chunlei Xu",
+                "Changsheng Ma",
+                "Xu Meng"
+            ],
+            "title_display": "Minimally Invasive Surgical Versus Catheter Ablation for the Long-Lasting Persistent Atrial Fibrillation",
+            "abstract": [
+                "Objective: To assess the efficacy of video-assisted minimally invasive surgical vs. catheter ablation for the long-standing persistent AF. Methods: We performed a retrospective comparative analysis in a series of 166 long-standing persistent AF patients treated between 2006 and 2009 with either video-assisted minimally invasive ablation (83 patients), or catheter ablations (83 patients). The catheter group was screened using a ‘pair-matched case-control’ methodology in order to select appropriate statistical comparison candidates out of 169 long-standing persistent AF patients which were potentially suitable for surgery, but have been treated with catheter approaches in order to balance major prognostic factors between the two groups. Follow-up for all patients ranged from 1 to 3.6 years. Results: No patient died postoperatively. One patient suffered from stroke in the surgical group but recovered before discharge. Freedom from AF was obtained in 59.0% and 74.7% during follow-up in the catheter group and the surgical group respectively (P = 0.047). Patients in the catheter group had a significantly higher rate of recurrent arrhythmia (P = 0.011, hazard ratio: 0.555, 95% CI: 0.354 to 0.872) compared with the surgically treated group. The freedom from antiarrhythmic drugs was 44.6% in the catheter group and 61.4% in the surgical group (P = 0.043). Conclusions: The video-assisted minimally invasive ablation was safe and effective, and had an optimistic success rate for patients with long-standing persistent AF in our retrospective comparative study. Thus, further randomized studies addressing this issue seem to be justified. "
+            ],
+            "publication_date": "2011-07-13T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 3,
+            "views": 1980,
+            "shares": 0,
+            "bookmarks": 3,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022122",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0022122&representation=PDF"
+        },
+        "10.1371/journal.pone.0071090": {
+            "author_display": [
+                "Kátia Regina da Silva",
+                "Roberto Costa",
+                "Elizabeth Sartori Crevelari",
+                "Marianna Sobral Lacerda",
+                "Caio Marcos de Moraes Albertini",
+                "Martino Martinelli Filho",
+                "José Eduardo Santana",
+                "João Ricardo Nickenig Vissoci",
+                "Ricardo Pietrobon",
+                "Jacson V. Barros"
+            ],
+            "title_display": "Glocal Clinical Registries: Pacemaker Registry Design and Implementation for Global and Local Integration – Methodology and Case Study",
+            "abstract": [
+                "Background: The ability to apply standard and interoperable solutions for implementing and managing medical registries as well as aggregate, reproduce, and access data sets from legacy formats and platforms to advanced standard formats and operating systems are crucial for both clinical healthcare and biomedical research settings. Purpose: Our study describes a reproducible, highly scalable, standard framework for a device registry implementation addressing both local data quality components and global linking problems. Methods and Results: We developed a device registry framework involving the following steps: (1) Data standards definition and representation of the research workflow, (2) Development of electronic case report forms using REDCap (Research Electronic Data Capture), (3) Data collection according to the clinical research workflow and, (4) Data augmentation by enriching the registry database with local electronic health records, governmental database and linked open data collections, (5) Data quality control and (6) Data dissemination through the registry Web site. Our registry adopted all applicable standardized data elements proposed by American College Cardiology / American Heart Association Clinical Data Standards, as well as variables derived from cardiac devices randomized trials and Clinical Data Interchange Standards Consortium. Local interoperability was performed between REDCap and data derived from Electronic Health Record system. The original data set was also augmented by incorporating the reimbursed values paid by the Brazilian government during a hospitalization for pacemaker implantation. By linking our registry to the open data collection repository Linked Clinical Trials (LinkedCT) we found 130 clinical trials which are potentially correlated with our pacemaker registry. Conclusion: This study demonstrates how standard and reproducible solutions can be applied in the implementation of medical registries to constitute a re-usable framework. Such approach has the potential to facilitate data integration between healthcare and research settings, also being a useful framework to be used in other biomedical registries. "
+            ],
+            "publication_date": "2013-07-25T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 0,
+            "views": 1965,
+            "shares": 0,
+            "bookmarks": 10,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0071090",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0071090&representation=PDF"
+        },
+        "10.1371/journal.pone.0086174": {
+            "author_display": [
+                "Latifah Amin",
+                "Md. Abul Kalam Azad",
+                "Mohd Hanafy Gausmian",
+                "Faizah Zulkifli"
+            ],
+            "title_display": "Determinants of Public Attitudes to Genetically Modified Salmon",
+            "abstract": [
+                "\nThe objective of this paper is to assess the attitude of Malaysian stakeholders to genetically modified (GM) salmon and to identify the factors that influence their acceptance of GM salmon using a structural equation model. A survey was carried out on 434 representatives from various stakeholder groups in the Klang Valley region of Malaysia. Public attitude towards GM salmon was measured using self-developed questionnaires with seven-point Likert scales. The findings of this study have confirmed that public attitudes towards GM salmon is a complex issue and should be seen as a multi-faceted process. The most important direct predictors for the encouragement of GM salmon are the specific application-linked perceptions about religious acceptability of GM salmon followed by perceived risks and benefits, familiarity, and general promise of modern biotechnology. Encouragement of GM salmon also involves the interplay among other factors such as general concerns of biotechnology, threatening the natural order of things, the need for labeling, the need for patenting, confidence in regulation, and societal values. The research findings can serve as a database that will be useful for understanding the social construct of public attitude towards GM foods in a developing country.\n"
+            ],
+            "publication_date": "2014-01-29T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 0,
+            "views": 2416,
+            "shares": 4,
+            "bookmarks": 9,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086174",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0086174&representation=PDF"
+        },
+        "10.1371/journal.pone.0081631": {
+            "author_display": [
+                "David A. Roberts",
+                "Rocky de Nys",
+                "Nicholas A. Paul"
+            ],
+            "title_display": "The Effect of CO<sub>2</sub> on Algal Growth in Industrial Waste Water for Bioenergy and Bioremediation Applications",
+            "abstract": [
+                "\n\t\t\t\tThe energy, mining and mineral processing industries are point sources of metal-contaminated waste water and carbon dioxide (CO2). Freshwater macroalgae from the genus Oedogonium can be grown in metal-contaminated waste water to generate biomass for bioenergy applications and concomitantly bioremediate metals. However, interactions between CO2 addition and algal growth, which can affect bioremediation, remain untested. The addition of CO2 to algal cultures in the Ash Dam Water (ADW) from a coal-fired power station increased the biomass productivity of Oedogonium sp. from 6.8 g dry weight (DW) m-2 d-1 to a maximum of 22.5 g DW m-2 d-1. The greater productivity increased the rate of bioremediation of most elements. However, over time carbon-amended cultures experienced a decline in productivity. Possible explanations include metal toxicity at low pH or essential trace element limitation as a result of competition between toxic and essential trace elements for uptake into algae. Higher productivity increased bioremediation rate and yielded more biomass for bioenergy applications, making maintenance of maximum productivity the central aim of the integrated culture model. To do so it will be necessary to resolve the mechanisms responsible for declining yields over time in carbon-amended cultures. Regardless, our data demonstrate that freshwater macroalgae are ideal candidates for bioremediation of metal-contaminated waste streams. Algal culture delivered significant improvement in ADW quality, reducing 5 elements that were initially in excess of water quality criteria (Al, As, Cd, Ni and Zn) to meet guidelines within two to four weeks.\n\t\t\t"
+            ],
+            "publication_date": "2013-11-22T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
             "citations": 5,
-            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0039407",
-            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0039407&representation=PDF"
-        },
-        "10.1371/journal.pntd.0001496": {
-            "author_display": [
-                "Luke Alphey",
-                "Camilla Beech"
-            ],
-            "title_display": "Appropriate Regulation of GM Insects",
-            "abstract": [
-                ""
-            ],
-            "publication_date": "2012-01-31T00:00:00Z",
-            "article_type": "Expert Commentary",
-            "journal": "PLoS Neglected Tropical Diseases",
-            "views": 4074,
-            "citations": 2,
-            "url": "http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001496",
-            "pdf": "http://www.plosntds.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pntd.0001496&representation=PDF"
+            "views": 2386,
+            "shares": 8,
+            "bookmarks": 7,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0081631",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0081631&representation=PDF"
         }
     }
 }

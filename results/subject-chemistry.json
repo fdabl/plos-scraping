@@ -1,0 +1,212 @@
+{
+    "subject-chemistry": {
+        "10.1371/journal.pone.0079218": {
+            "author_display": [
+                "Karson S. Putt",
+                "Randall B. Pugh"
+            ],
+            "title_display": "A High-Throughput Microtiter Plate Based Method for the Determination of Peracetic Acid and Hydrogen Peroxide",
+            "abstract": [
+                "\nPeracetic acid is gaining usage in numerous industries who have found a myriad of uses for its antimicrobial activity. However, rapid high throughput quantitation methods for peracetic acid and hydrogen peroxide are lacking. Herein, we describe the development of a high-throughput microtiter plate based assay based upon the well known and trusted titration chemical reactions. The adaptation of these titration chemistries to rapid plate based absorbance methods for the sequential determination of hydrogen peroxide specifically and the total amount of peroxides present in solution are described. The results of these methods were compared to those of a standard titration and found to be in good agreement. Additionally, the utility of the developed method is demonstrated through the generation of degradation curves of both peracetic acid and hydrogen peroxide in a mixed solution.\n"
+            ],
+            "publication_date": "2013-11-18T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 2,
+            "views": 799,
+            "shares": 0,
+            "bookmarks": 0,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0079218",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0079218&representation=PDF"
+        },
+        "10.1371/journal.pone.0089416": {
+            "author_display": [
+                "Katarina Bengtsson",
+                "Sara Nilsson",
+                "Nathaniel D. Robinson"
+            ],
+            "title_display": "Conducting Polymer Electrodes for Gel Electrophoresis",
+            "abstract": [
+                "\nIn nearly all cases, electrophoresis in gels is driven via the electrolysis of water at the electrodes, where the process consumes water and produces electrochemical by-products. We have previously demonstrated that π-conjugated polymers such as poly(3,4-ethylenedioxythiophene) (PEDOT) can be placed between traditional metal electrodes and an electrolyte to mitigate electrolysis in liquid (capillary electroosmosis/electrophoresis) systems. In this report, we extend our previous result to gel electrophoresis, and show that electrodes containing PEDOT can be used with a commercial polyacrylamide gel electrophoresis system with minimal impact to the resulting gel image or the ionic transport measured during a separation.\n"
+            ],
+            "publication_date": "2014-02-19T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 0,
+            "views": 1097,
+            "shares": 0,
+            "bookmarks": 3,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0089416",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0089416&representation=PDF"
+        },
+        "10.1371/journal.pone.0086530": {
+            "author_display": [
+                "Pankaj Attri",
+                "Ku Youn. Baik",
+                "Pannuru Venkatesu",
+                "In Tae Kim",
+                "Eun Ha Choi"
+            ],
+            "title_display": "Influence of Hydroxyl Group Position and Temperature on Thermophysical Properties of Tetraalkylammonium Hydroxide Ionic Liquids with Alcohols",
+            "abstract": [
+                "\nIn this work, we have explored the thermophysical properties of tetraalkylammonium hydroxide ionic liquids (ILs) such as tetrapropylammonium hydroxide (TPAH) and tetrabutylammonium hydroxide (TBAH) with isomers of butanol (1-butanol, 2-butanol and 2-methyl-2-propanol) within the temperature range 293.15–313.15 K, with interval of 5 K and over the varied concentration range of ILs. The molecular interactions between ILs and butanol isomers are essential for understanding the function of ILs in related measures and excess functions are sensitive probe for the molecular interactions. Therefore, we calculated the excess molar volume (VE) and the deviation in isentropic compressibility (Δκs) using the experimental values such as densities (ρ) and ultrasonic sound velocities (u) that are measured over the whole compositions range at five different temperatures (293.15, 298.15, 303.15, 308.15 and 313.15 K) and atmospheric pressure. These excess functions were adequately correlated by using the Redlich–Kister polynomial equation. It was observed that for all studied systems, the VE and Δκs values are negative for the whole composition range at 293.15 K. And, the excess function follows the sequence: 2-butanol>1-butanol>2-methyl-2-propanol, which reveals that (primary or secondary or tertiary) position of hydroxyl group influence the magnitude of interactions with ILs. The negative values of excess functions are contributions from the ion-dipole interaction, hydrogen bonding and packing efficiency between the ILs and butanol isomers. Hence, the position of hydroxyl group plays an important role in the interactions with ILs. The hydrogen bonding features between ILs and alcohols were analysed using molecular modelling program by using HyperChem 7.\n"
+            ],
+            "publication_date": "2014-01-29T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 3,
+            "views": 700,
+            "shares": 0,
+            "bookmarks": 3,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086530",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0086530&representation=PDF"
+        },
+        "10.1371/journal.pone.0004473": {
+            "author_display": [
+                "Ke Chen",
+                "Lukasz Kurgan"
+            ],
+            "title_display": "Investigation of Atomic Level Patterns in Protein—Small Ligand Interactions",
+            "abstract": [
+                "Background: Shape complementarity and non-covalent interactions are believed to drive protein-ligand interaction. To date protein-protein, protein-DNA, and protein-RNA interactions were systematically investigated, which is in contrast to interactions with small ligands. We investigate the role of covalent and non-covalent bonds in protein-small ligand interactions using a comprehensive dataset of 2,320 complexes. Methodology and Principal Findings: We show that protein-ligand interactions are governed by different forces for different ligand types, i.e., protein-organic compound interactions are governed by hydrogen bonds, van der Waals contacts, and covalent bonds; protein-metal ion interactions are dominated by electrostatic force and coordination bonds; protein-anion interactions are established with electrostatic force, hydrogen bonds, and van der Waals contacts; and protein-inorganic cluster interactions are driven by coordination bonds. We extracted several frequently occurring atomic-level patterns concerning these interactions. For instance, 73% of investigated covalent bonds were summarized with just three patterns in which bonds are formed between thiol of Cys and carbon or sulfur atoms of ligands, and nitrogen of Lys and carbon of ligands. Similar patterns were found for the coordination bonds. Hydrogen bonds occur in 67% of protein-organic compound complexes and 66% of them are formed between NH- group of protein residues and oxygen atom of ligands. We quantify relative abundance of specific interaction types and discuss their characteristic features. The extracted protein-organic compound patterns are shown to complement and improve a geometric approach for prediction of binding sites. Conclusions and Significance: We show that for a given type (group) of ligands and type of the interaction force, majority of protein-ligand interactions are repetitive and could be summarized with several simple atomic-level patterns. We summarize and analyze 10 frequently occurring interaction patterns that cover 56% of all considered complexes and we show a practical application for the patterns that concerns interactions with organic compounds. "
+            ],
+            "publication_date": "2009-02-16T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 15,
+            "views": 4259,
+            "shares": 0,
+            "bookmarks": 26,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0004473",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0004473&representation=PDF"
+        },
+        "10.1371/journal.pone.0104835": {
+            "author_display": [
+                "Mengzhe Guo",
+                "Youlu Pan",
+                "Rong Zhang",
+                "Yang Cao",
+                "Jianzhong Chen",
+                "Yuanjiang Pan"
+            ],
+            "title_display": "The Specific Cleavage of Lactone Linkage to Open-Loop in Cyclic Lipopeptide during Negative ESI Tandem Mass Spectrometry: The Hydrogen Bond Interaction Effect of 4-Ethyl Guaiacol",
+            "abstract": [
+                "\nMass spectrometry is a valuable tool for the analysis and identification of chemical compounds, particularly proteins and peptides. Lichenysins G, the major cyclic lipopeptide of lichenysin, and the non-covalent complex of lichenysins G and 4-ethylguaiacol were investigated with negative ion ESI tandem mass spectrometry. The different fragmentation mechanisms for these compounds were investigated. Our study shows the 4-ethylguaiacol hydrogen bond with the carbonyl oxygen of the ester group in the loop of lichenysins G. With the help of this hydrogen bond interaction, the ring structure preferentially opens in lactone linkage rather than O-C bond of the ester-group to produce alcohol and ketene. Isothermal titration 1H-NMR analysis verified the hydrogen bond and determined the proportion of subject and ligand in the non-covalent complex to be 1∶1. Theoretical calculations also suggest that the addition of the ligand can affect the energy of the transition structures (TS) during loop opening.\n"
+            ],
+            "publication_date": "2014-08-21T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 0,
+            "views": 234,
+            "shares": 0,
+            "bookmarks": 0,
+            "url": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0104835",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0104835&representation=PDF"
+        },
+        "10.1371/journal.pone.0022782": {
+            "author_display": [
+                "Jeffrey M. Dick",
+                "Everett L. Shock"
+            ],
+            "title_display": "Calculation of the Relative Chemical Stabilities of Proteins as a Function of Temperature and Redox Chemistry in a Hot Spring",
+            "abstract": [
+                "\n        Uncovering the chemical and physical links between natural environments and microbial communities is becoming increasingly amenable owing to geochemical observations and metagenomic sequencing. At the hot spring known as Bison Pool in Yellowstone National Park, the cooling of the water in the outflow channel is associated with an increase in oxidation potential estimated from multiple field-based measurements. Representative groups of proteins whose sequences were derived from metagenomic data also exhibit an increase in average oxidation state of carbon in the protein molecules with distance from the hot-spring source. The energetic requirements of reactions to form selected proteins used in the model were computed using amino-acid group additivity for the standard molal thermodynamic properties of the proteins, and the relative chemical stabilities of the proteins were investigated by varying temperature, pH and oxidation state, expressed as activity of dissolved hydrogen. The relative stabilities of the proteins were found to track the locations of the sampling sites when the calculations included a function for hydrogen activity that increases with temperature and is higher, or more reducing, than values consistent with measurements of dissolved oxygen, sulfide and oxidation-reduction potential in the field. These findings imply that spatial patterns in the amino acid compositions of proteins can be linked, through energetics of overall chemical reactions representing the formation of the proteins, to the environmental conditions at this hot spring, even if microbial cells maintain considerably different internal conditions. Further applications of the thermodynamic calculations are possible for other natural microbial ecosystems.\n      "
+            ],
+            "publication_date": "2011-08-11T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 6,
+            "views": 2288,
+            "shares": 0,
+            "bookmarks": 21,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022782",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0022782&representation=PDF"
+        },
+        "10.1371/journal.pone.0106218": {
+            "author_display": [
+                "Yuchen Han",
+                "Mirjam Perner"
+            ],
+            "title_display": "The Role of Hydrogen for <i>Sulfurimonas denitrificans’</i> Metabolism",
+            "abstract": [
+                "\nSulfurimonas denitrificans was originally isolated from coastal marine sediments. It can grow with thiosulfate and nitrate or sulfide and oxygen. Recently sequencing of its genome revealed that it encodes periplasmic and cytoplasmic [NiFe]-hydrogenases but the role of hydrogen for its metabolism has remained unknown. We show the first experimental evidence that S. denitrificans can indeed express a functional hydrogen uptake active hydrogenase and can grow on hydrogen. In fact, under the provided conditions it grew faster and denser on hydrogen than on thiosulfate alone and even grew with hydrogen in the absence of reduced sulfur compounds. In our experiments, at the time points tested, the hydrogen uptake activity appeared to be related to the periplasmic hydrogenase and not to the cytoplasmic hydrogenase. Our data suggest that under the provided conditions S. denitrificans can grow more efficiently with hydrogen than with thiosulfate.\n"
+            ],
+            "publication_date": "2014-08-29T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 0,
+            "views": 217,
+            "shares": 0,
+            "bookmarks": 0,
+            "url": "http://www.plosone.org/article/info:doi/10.1371/journal.pone.0106218",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0106218&representation=PDF"
+        },
+        "10.1371/journal.pone.0005348": {
+            "author_display": [
+                "Silvia Schumann",
+                "Mineko Terao",
+                "Enrico Garattini",
+                "Miguel Saggu",
+                "Friedhelm Lendzian",
+                "Peter Hildebrandt",
+                "Silke Leimkühler"
+            ],
+            "title_display": "Site Directed Mutagenesis of Amino Acid Residues at the Active Site of Mouse Aldehyde Oxidase AOX1",
+            "abstract": [
+                "\nMouse aldehyde oxidase (mAOX1) forms a homodimer and belongs to the xanthine oxidase family of molybdoenzymes which are characterized by an essential equatorial sulfur ligand coordinated to the molybdenum atom. In general, mammalian AOs are characterized by broad substrate specificity and an yet obscure physiological function. To define the physiological substrates and the enzymatic characteristics of mAOX1, we established a system for the heterologous expression of the enzyme in Eschericia coli. The recombinant protein showed spectral features and a range of substrate specificity similar to the native protein purified from mouse liver. The EPR data of recombinant mAOX1 were similar to those of AO from rabbit liver, but differed from the homologous xanthine oxidoreductase enzymes. Site-directed mutagenesis of amino acids Val806, Met884 and Glu1265 at the active site resulted in a drastic decrease in the oxidation of aldehydes with no increase in the oxidation of purine substrates. The double mutant V806E/M884R and the single mutant E1265Q were catalytically inactive enzymes regardless of the aldehyde or purine substrates tested. Our results show that only Glu1265 is essential for the catalytic activity by initiating the base-catalyzed mechanism of substrate oxidation. In addition, it is concluded that the substrate specificity of molybdo-flavoenzymes is more complex and not only defined by the three characterized amino acids in the active site.\n"
+            ],
+            "publication_date": "2009-04-29T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 17,
+            "views": 3262,
+            "shares": 0,
+            "bookmarks": 17,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0005348",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0005348&representation=PDF"
+        },
+        "10.1371/journal.pone.0022016": {
+            "author_display": [
+                "M. Carmen González-Mas",
+                "José Luis Rambla",
+                "M. Carmen Alamar",
+                "Abelardo Gutiérrez",
+                "Antonio Granell"
+            ],
+            "title_display": "Comparative Analysis of the Volatile Fraction of Fruit Juice from Different <i>Citrus</i> Species",
+            "abstract": [
+                "\n        The volatile composition of fruit from four Citrus varieties (Powell Navel orange, Clemenules mandarine, and Fortune mandarine and Chandler pummelo) covering four different species has been studied. Over one hundred compounds were profiled after HS-SPME-GC-MS analysis, including 27 esters, 23 aldehydes, 21 alcohols, 13 monoterpene hydrocarbons, 10 ketones, 5 sesquiterpene hydrocarbons, 4 monoterpene cyclic ethers, 4 furans, and 2 aromatic hydrocarbons, which were all confirmed with standards. The differences in the volatile profile among juices of these varieties were essentially quantitative and only a few compounds were found exclusively in a single variety, mainly in Chandler. The volatile profile however was able to differentiate all four varieties and revealed complex interactions between them including the participation in the same biosynthetic pathway. Some compounds (6 esters, 2 ketones, 1 furan and 2 aromatic hydrocarbons) had never been reported earlier in Citrus juices. This volatile profiling platform for Citrus juice by HS-SPME-GC-MS and the interrelationship detected among the volatiles can be used as a roadmap for future breeding or biotechnological applications.\n      "
+            ],
+            "publication_date": "2011-07-19T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 14,
+            "views": 4811,
+            "shares": 1,
+            "bookmarks": 15,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022016",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0022016&representation=PDF"
+        },
+        "10.1371/journal.pone.0030510": {
+            "author_display": [
+                "Mika Ito",
+                "Jan Johansson",
+                "Roger Strömberg",
+                "Lennart Nilsson"
+            ],
+            "title_display": "Effects of Ligands on Unfolding of the Amyloid β-Peptide Central Helix: Mechanistic Insights from Molecular Dynamics Simulations",
+            "abstract": [
+                "\n        Polymerization of the amyloid β-peptide (Aβ), a process which requires that the helical structure of Aβ unfolds beforehand, is suspected to cause neurodegeneration in Alzheimer's disease. According to recent experimental studies, stabilization of the Aβ central helix counteracts Aβ polymerization into toxic assemblies. The effects of two ligands (Dec-DETA and Pep1b), which were designed to bind to and stabilize the Aβ central helix, on unfolding of the Aβ central helix were investigated by molecular dynamics simulations. It was quantitatively demonstrated that the stability of the Aβ central helix is increased by both ligands, and more effectively by Pep1b than by Dec-DETA. In addition, it was shown that Dec-DETA forms parallel conformations with β-strand-like Aβ, whereas Pep1b does not and instead tends to bend unwound Aβ. The molecular dynamics results correlate well with previous experiments for these ligands, which suggest that the simulation method should be useful in predicting the effectiveness of novel ligands in stabilizing the Aβ central helix. Detailed Aβ structural changes upon loss of helicity in the presence of the ligands are also revealed, which gives further insight into which ligand may lead to which path subsequent to unwinding of the Aβ central helix.\n      "
+            ],
+            "publication_date": "2012-01-23T00:00:00Z",
+            "article_type": "Research Article",
+            "journal": "PLoS ONE",
+            "citations": 8,
+            "views": 1798,
+            "shares": 0,
+            "bookmarks": 12,
+            "url": "http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030510",
+            "pdf": "http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0030510&representation=PDF"
+        }
+    }
+}
